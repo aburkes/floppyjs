@@ -1,5 +1,10 @@
 # floppyjs
+
+Current Status: Dreaming
+------------------------
+
 Floppy disk drive emulator in node.js
+-------------------------------------
 
 This is an experimental floppy disk drive emulator. At the moment, development is being done on the Beaglebone Black via the Beaglebone library, but porting to other hardware systems such as the Raspberry Pi should theoretically be trivial.
 
